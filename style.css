@@ -33,7 +33,7 @@ h3{
     border: 1px solid white;
 }
 
-.button .sub{
+.button .btn{
     padding: 10px;
     outline: none;
     border: none;
@@ -44,7 +44,7 @@ h3{
     transition: 300ms;
 }
 
-.btn .sub:hover{
+.btn .btn:hover{
     background-color: #ffff;
     color: rgb(49, 145, 255);
     border: 1px solid ;
